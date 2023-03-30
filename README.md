@@ -1,16 +1,13 @@
-### Hi there 👋
+## 𝐻𝑒𝓁𝓁𝑜! 𝐼'𝓂 𝑀𝒾𝓀𝑜𝟧𝟧𝟧𝟨𝟤
 
-<!--
-**Miko55562/Miko55562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ℙ𝕪𝕥𝕙𝕠𝕟 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🐍
 
-Here are some ideas to get you started:
+𝕒𝕟𝕕 𝕒 𝕓𝕚𝕥 𝕠𝕗 𝕔++, 𝕙𝕥𝕞𝕝, 𝕔𝕤𝕤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miko55562&show_icons=true&theme=dark)
+
+
+![codewars Stats](https://www.codewars.com/users/Miko_DT/badges/large)
+
+
+![](https://komarev.com/ghpvc/?username=Miko55562)
