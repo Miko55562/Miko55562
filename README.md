@@ -11,3 +11,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Miko55562)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=U0dWc2JHOGdkR2hsY21VaElEb3BDa1JwYzJOdmNtUTZJRTFoVGpScFN5TTROalkw)](https://git.io/typing-svg)
