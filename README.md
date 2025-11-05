@@ -30,5 +30,5 @@
 In my free time, I enjoy developing pet projects and learning about new technologies through books and articles. I am a quick learner, able to rapidly master new tools and technologies. I also possess strong communication skills, which help me interact effectively with colleagues and succeed in team projects.
 
 ## 📫 **Contact Me:** 
-- [t.me/@Lulgang](t.me/@Lulgang)
+- t.me/@Lulgang
 - pudovninmihail@gmail.com
